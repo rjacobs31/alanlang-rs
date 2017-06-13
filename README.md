@@ -1,5 +1,5 @@
-#ALAN-rs
+# ALAN-rs
 
-##EBNF
+## EBNF
 ```ebnf
 ```
